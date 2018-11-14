@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "T.A for Data Structure and Algorithms"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Colledge of Computer Science and Software Engineering, Shenzhen University"
 date: 2014-01-01
-location: "City, Country"
+location: "Shenzhen China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Serve as T.A for Data Structure and Algorithms theory and experiments courses at Shenzhen University.
