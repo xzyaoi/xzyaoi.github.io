@@ -12,4 +12,4 @@ Serve as T.A for Internet Programming (Android).
 
 Downloadable Materials.
 
-* A simple guide for creating android apps with Android Studio [Android Studio Tour]()
+* A simple guide for creating android apps with Android Studio [Android Studio Tour](/files/android.pdf)
