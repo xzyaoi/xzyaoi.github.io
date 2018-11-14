@@ -32,7 +32,7 @@ Skills
   * Familiar with PyTorch and Tensorflow.
   * Semantic Segmentation, Recognition and etc.
   * Auto Labeling, Training and Deployment.
-* Python
+* Python, TypeScript, Go and some other programming languages.
 
 Publications
 ======
