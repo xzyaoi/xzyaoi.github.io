@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Xiaozhe Yao"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Work for Human Being."
   location         : "Shenzhen | Hong Kong"
-  employer         : "Shenzhen University | AICAMP.CO.,LTD"
+  employer         : "AICAMP.CO.,LTD"
   googlescholar    : "https://scholar.google.com.hk/citations?user=Bhgm1tQAAAAJ&hl=en"
   email            : "xiaozhe.yaoi@qq.com"
   uri              :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Xiaozhe_Y"
   vine             :
   weibo            :
   xing             :
