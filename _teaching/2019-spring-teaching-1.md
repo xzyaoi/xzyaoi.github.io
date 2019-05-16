@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Profession English"
+title: "Teaching Assistant for Professional English"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2019-spring-teaching-1
