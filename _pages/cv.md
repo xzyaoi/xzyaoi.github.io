@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full resume [here](files/resume.pdf)
+
 Education
 ======
 * B.S. in Computer Science, Shenzhen University University, 2017
@@ -51,6 +53,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
