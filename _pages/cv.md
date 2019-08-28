@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full resume [here](files/resume.pdf)
+You can download my resume [here](files/resume.pdf) and cv [here](files/cv.pdf)
 
 Education
 ======

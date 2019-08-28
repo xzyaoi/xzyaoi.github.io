@@ -16,6 +16,8 @@ I am now serving as technical chair at AICAMP.CO.,LTD, a Hong Kong Cyberport Inc
 
 Prior to joining AICAMP, I was the co-founder of Zhitan Technology in Shenzhen, and lead the backend department. Before that, I joined Shenzhen Institute of Advanced Research, Chinese Academy of Science as a Data Scientist (Intern). At SIAT, I developed a food recognition and recommendation algorithm and devoted it to Zhitan Technology.
 
+You can download my full CV [here](files/cv.pdf) and resume [here](files/resume.pdf)
+
 ## Spotlight
 
 You might be interested in:
