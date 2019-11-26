@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://yaonotes.org/blogs/yaonotes-is-now-live!
     
   - title: "CV"
     url: /cv/
