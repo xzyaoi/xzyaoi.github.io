@@ -23,5 +23,5 @@ You can download my full CV [here](files/cv.pdf) and resume [here](files/resume.
 You might be interested in:
 
 * [CVFlow: Open Workflow for Computer Vision](https://cvflow.autoai.org)
-* [Road to Machine Learning: My Learning Note](https://ml.autoai.org)
+* [Yaonotes](https://www.yaonotes.org)
 * [Homepage of AutoAI](https://autoai.org)
