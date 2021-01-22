@@ -33,5 +33,4 @@ jobs:
           #   keep_files: true
           user_name: xzyaoi
           user_email: askfermi@gmail.com
-          publish_branch: master
         #   cname: example.com
