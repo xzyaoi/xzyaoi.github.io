@@ -1,5 +1,5 @@
-title = "Researcher"
-baseURL = "https://xzyaoi.github.io"
+title = "Xiaozhe Yao"
+baseURL = "https://xzyaoi.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -8,7 +8,7 @@ googleAnalytics = "UA-168773217-1"
 
 [params]
   author = "Xiaozhe Yao"
-  description = "A simple monospaced resume theme for Hugo."
+  description = "All about Xiaozhe Yao"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   [params.footer]
     text = "By Xiaozhe Yao"
@@ -19,8 +19,8 @@ googleAnalytics = "UA-168773217-1"
 
 [menu]
   [[menu.main]]
-    name = "About"
-    url = "/about"
+    name = "Yaonotes"
+    url = "https://yaonotes.org"
     weight = 1
   [[menu.main]]
     name = "Resume"

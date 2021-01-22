@@ -6,56 +6,34 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+I am Xiaozhe Yao, currently a master student at the Institute of Informatics (IFI), University of Zurich.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
-
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+* Machine Learning Model, Data and Application Management.
+* Computer Vision.
+* Learned Indexes.
 
 ## Publications
 
 In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Yao, Xiaozhe. "MLPM: Machine Learning Package Manager." (Workshop on MLOps, MLSys, 2020).
+2. Chen, Yingying, and Xiaozhe Yao. "CVTron Web: A Versatile Framework for Online Computer Vision Services." World Congress on Services. Springer, Cham, 2018.
+3. Yao, Xiaozhe, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study." International Conference on Smart Computing and Communication. Springer, Cham, 2017.
 
-## Typography
+## Technical Reports
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+In chronological order:
+1. Yao, Xiaozhe. "Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks." (2020).
+2. Chen, Yingying, and Xiaozhe Yao. "Knowledge Graph Embedding and OpenKE." (2019).
 
-Here is a table:
+## Teaching
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+I served as the teaching assistant at both Shenzhen University and University of Zurich, for the following courses: 
 
-Here is a horizontal rule:
-
----
-
-Here is a blockquote:
-
-> To a great mind, nothing is little
-
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+* Informatics II: Data Structure and Algorithms. University of Zurich. Spring 2021.
+* Informatics I: Introduction to Programming. University of Zurich. Fall 2020.
+* Professional English for Computer Science. Shenzhen University. Spring 2019.
+* Web Programming (Java Web). Shenzhen University. 2016.
+* Web Programming (Android). Shenzhen University. 2015.
+* Data Structure and Algorithms. Shenzhen University. 2014.
