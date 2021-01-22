@@ -28,6 +28,7 @@ jobs:
         with:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: xzyaoi/xzyaoi.github.io
+          publish_branch: gh-pages
           publish_dir: ./public
           #   keep_files: true
           user_name: xzyaoi
