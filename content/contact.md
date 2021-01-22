@@ -8,4 +8,5 @@ title = "Contact"
 
 ## Social
 
-1. [Twitter](https://twitter.com/Xiaozhe_Y)
+* [GitHub](https://github.com/xzyaoi)
+* [Twitter](https://twitter.com/Xiaozhe_Y)
