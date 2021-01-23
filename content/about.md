@@ -10,9 +10,9 @@ I am Xiaozhe Yao, currently a master student at the Institute of Informatics (IF
 
 ## Research Interest
 
-* Machine Learning Model, Data and Application Management.
-* Computer Vision.
-* Learned Indexes and its application in databases.
+* Machine Learning Model, Data and Application Management. [AID](https://github.com/autoai-org/aid).
+* Machine Vision.
+* Learned Indexes and its application in databases [EurusDB (private only)](https://github.com/autoai-org/eurusdb).
 
 ## Publications
 
@@ -24,11 +24,12 @@ In chronological order:
 ## Technical Reports
 
 In chronological order:
-1. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks.](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render) (*2020*).
-2. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE.](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
-3. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in open Source Software and its Impact on SoftwareQuality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
+1. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier.](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
+2. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks.](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render) (*2020*).
+3. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE.](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
+4. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in open Source Software and its Impact on SoftwareQuality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
 
-## Thesis
+## Theses
 
 1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Shiqi Yu.
 
