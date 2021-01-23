@@ -24,9 +24,9 @@ In chronological order:
 ## Technical Reports
 
 In chronological order:
-1. **Yao, Xiaozhe**. ["Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks."](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render) (*2020*).
-2. Chen, Yingying, and **Xiaozhe Yao**. ["Knowledge Graph Embedding and OpenKE."](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
-3. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. ["Diversity in open Source Software and its Impact on SoftwareQuality"](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
+1. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks.](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render) (*2020*).
+2. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE.](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
+3. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in open Source Software and its Impact on SoftwareQuality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
 
 ## Thesis
 
@@ -42,12 +42,12 @@ In chronological order:
 
 I served as the teaching assistant at both Shenzhen University and University of Zurich, for the following courses: 
 
-* Informatics II: Data Structure and Algorithms. University of Zurich. Spring 2021.
-* Informatics I: Introduction to Programming. University of Zurich. Fall 2020.
-* Professional English for Computer Science. Shenzhen University. Spring 2019.
-* Web Programming (Java Web). Shenzhen University. 2016.
-* Web Programming (Android). Shenzhen University. 2015.
-* Data Structure and Algorithms. Shenzhen University. 2014.
+* Informatics II: Data Structure and Algorithms. University of Zurich. *Spring 2021*.
+* Informatics I: Introduction to Programming. University of Zurich. *Fall 2020*.
+* Professional English for Computer Science. Shenzhen University. *Spring 2019*.
+* Web Programming (Java Web). Shenzhen University. *2016*.
+* Web Programming (Android). Shenzhen University. *2015*.
+* Data Structure and Algorithms. Shenzhen University. *2014*.
 
 ## Entrepreneurship Experience
 
