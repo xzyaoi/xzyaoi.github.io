@@ -27,11 +27,11 @@ In chronological order:
 
 In chronological order:
 
-1.**Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://yaonotes.org) (*2020*).
-1. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
-2. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
-3. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
-4. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in Open Source Software Community and its Impact on Software Quality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
+1. **Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management (not publicly accessible till today)](https://yaonotes.org) (*2020*).
+2. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
+3. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
+4. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
+5. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in Open Source Software Community and its Impact on Software Quality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
 
 ## Theses
 
