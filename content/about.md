@@ -1,18 +1,19 @@
 +++
-title = "About"
+title = "About Xiaozhe Yao"
 +++
 
-## About Me
+## Xiaozhe Yao (姚晓哲)
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am Xiaozhe Yao, currently a master student at the Institute of Informatics (IFI), University of Zurich.
+I am Xiaozhe Yao, currently a master student at the Institut für Informatik (IfI), Universität Zürich.
 
 ## Research Interest
 
 * Machine Learning Model, Data and Application Management. [AID](https://github.com/autoai-org/aid).
-* Machine Vision.
 * Learned Indexes and its application in databases [EurusDB (private only)](https://github.com/autoai-org/eurusdb).
+* Machine Vision and Robotics.
+* Machine Learning in Social Sciences.
 
 ## Publications
 
@@ -24,6 +25,7 @@ In chronological order:
 ## Technical Reports
 
 In chronological order:
+1.**Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://yaonotes.org) (*2020*).
 1. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
 2. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
 3. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
@@ -35,16 +37,16 @@ In chronological order:
 
 ## Education
 
-* **Master of Data Science** (with a minor in Mathematics) at the Institute of Informatics, University of Zurich. *Sept 2019 to June 2021* (ca.).
+* **Master of Data Science** (with a minor in Mathematics) at the Institute of Informatics, Universität Zürich. *Sept 2019 to June 2021* (ca.).
 * **Micromaster (online) in Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
 ## Teaching
 
-I served as the teaching assistant at both Shenzhen University and University of Zurich, for the following courses: 
+I served as the teaching assistant at both Shenzhen University and Universität Zürich, for the following courses: 
 
-* Informatics II: Data Structure and Algorithms. University of Zurich. *Spring 2021*.
-* Informatics I: Introduction to Programming. University of Zurich. *Fall 2020*.
+* Informatics II: Data Structure and Algorithms. Universität Zürich. *Spring 2021*.
+* Informatics I: Introduction to Programming. Universität Zürich. *Fall 2020*.
 * Professional English for Computer Science. Shenzhen University. *Spring 2019*.
 * Web Programming (Java Web). Shenzhen University. *2016*.
 * Web Programming (Android). Shenzhen University. *2015*.
@@ -65,4 +67,4 @@ I served as the teaching assistant at both Shenzhen University and University of
 
 ## Community Service
 
-* Photographer, Shenzhen, IAPR TC4 Winter School on Biometrics. *13-17 Jan 2019*
+* Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*
