@@ -18,6 +18,7 @@ I am Xiaozhe Yao, currently a master student at the Institut für Informatik (If
 ## Publications
 
 In chronological order:
+
 1. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager." Workshop on MLOps, MLSys, *2020*.
 2. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services." World Congress on Services. Springer, Cham, *2018*.
 3. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study." International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
@@ -25,6 +26,7 @@ In chronological order:
 ## Technical Reports
 
 In chronological order:
+
 1.**Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://yaonotes.org) (*2020*).
 1. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
 2. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
