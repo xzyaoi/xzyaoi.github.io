@@ -17,4 +17,5 @@ title = "Projects"
 
 * [Foodie: Comprehensive Food Recommendation](https://www.youtube.com/watch?v=WE7AFbWejHs&feature=youtu.be).
 * [Tinynet: Implement Neural Network From Scratch](https://github.com/xzyaoi/tinynet).
-* [Covid-Sentiment: Analyse People's Response to Covid-19 from Tweets](https://github.com/xzyaoi/covid-sentiment/tree/master/webapp). [Demo](https://covid19.yaonotes.org/)
+* [Covid-Sentiment: Analyse People's Response to Covid-19 from Tweets](https://github.com/xzyaoi/covid-sentiment/). [Demo](https://covid19.yaonotes.org/)
+* [Industry AI: Online Annotation for Image Datasets](https://www.youtube.com/watch?v=T1GqKRe7OlQ).
