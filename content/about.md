@@ -8,11 +8,11 @@ title = "About Xiaozhe Yao"
 
 I am Xiaozhe Yao, currently a master student at the Institut für Informatik (IfI), Universität Zürich.
 
-## Research Interest
+## Research Interests
 
-* Machine Learning Model, Data and Application Management. [AID](https://github.com/autoai-org/aid).
-* Learned Indexes and its application in databases [EurusDB (private only)](https://github.com/autoai-org/eurusdb).
-* Machine Vision and Robotics.
+* Machine Learning Model, Data and Application Management [AID](https://github.com/autoai-org/aid).
+* Learned Indexes and its application in databases [EurusDB (permission required)](https://github.com/autoai-org/eurusdb).
+* Machine Vision and Robotics [VO-Lib](https://github.com/xzyaoi/VAMR-2020).
 * Machine Learning in Social Sciences.
 
 ## Publications
@@ -39,7 +39,7 @@ In chronological order:
 
 ## Education
 
-* **Master of Data Science** (with a minor in Mathematics) at the Institute of Informatics, Universität Zürich. *Sept 2019 to June 2021* (ca.).
+* **Master of Data Science** (with a minor in Mathematics) at the Institut für Informatik, Universität Zürich. *Sept 2019 to June 2021* (ca.).
 * **Micromaster (online) in Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
@@ -47,7 +47,7 @@ In chronological order:
 
 I served as the teaching assistant at both Shenzhen University and Universität Zürich, for the following courses: 
 
-* Informatics II: Data Structure and Algorithms. Universität Zürich. *Spring 2021*.
+* Informatics II: Data Structure and Algorithms. Universität Zürich. *Spring 2021*. [Cheatsheet](https://xzyaoi.github.io/uzh-info2-cheatsheet/).
 * Informatics I: Introduction to Programming. Universität Zürich. *Fall 2020*.
 * Professional English for Computer Science. Shenzhen University. *Spring 2019*.
 * Web Programming (Java Web). Shenzhen University. *2016*.
@@ -58,14 +58,15 @@ I served as the teaching assistant at both Shenzhen University and Universität 
 
 * Co-funded Zhitan Technology under the support from Shenzhen Institute of Advanced Technology. Our goal is to create an algorithm (along with mobile application) that could learn and recommend prefered food combinations to users.
 * Co-funded AICAMP under the support from Cyberport.
+* Entrepreneurship and Innovation Training Programme, California State University, Long Beach.
 
 ## Awards, Scholarships and Projects Grants.
 
 * Excellent Youth Entrepreneur of Nanshan District, Shenzhen. *2017*.
-* Third-Level Loongson Scholarship. *2015*.
+* Loongson Scholarship. *2015*.
 * Individual Makers Fund, Shenzhen Science and Technology Committee. *2016*.
 * Cyberport Creative Micro Fund. Hong Kong. *2016*.
-* First-Level Academic Scholarship and several university-wide scholarships during *2013~2017*.
+* Top Academic Scholarship and several university-wide scholarships during *2013~2017*.
 
 ## Community Service
 
