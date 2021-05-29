@@ -12,8 +12,7 @@ I am Xiaozhe Yao, currently a master student at the Institut für Informatik (If
 
 * Machine Learning Model, Data and Application Management [AID](https://github.com/autoai-org/aid).
 * Learned Indexes and its application in databases [EurusDB (permission required)](https://github.com/autoai-org/eurusdb).
-* Machine Vision and Robotics [VO-Lib](https://github.com/xzyaoi/VAMR-2020).
-* Machine Learning in Social Sciences.
+* Machine Learning in Social Sciences, Computer Vision and other applications.
 
 ## Publications
 
@@ -36,6 +35,10 @@ In chronological order:
 ## Theses
 
 1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Shiqi Yu.
+
+## Work Experience
+
+* **Innovator Fellow** at the [Library Labs, ETH Zürich](https://librarylab.ethz.ch). *June 2021*.
 
 ## Education
 
