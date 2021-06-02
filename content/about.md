@@ -26,11 +26,12 @@ In chronological order:
 
 In chronological order:
 
-1. **Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://mfr.de-1.osf.io/render?url=https://osf.io/8sehj/?direct%26mode=render%26action=download%26mode=render) (*2020*).
-2. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
-3. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
-4. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
-5. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in Open Source Software Community and its Impact on Software Quality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
+1. **Yao, Xiaozhe**, Neeraj Kumar and Nivedita Nivedita. [Implementing learned indexes on 1 and 2 dimensional data](https://mfr.de-1.osf.io/render?url=https://osf.io/2cerk/?direct%26mode=render%26action=download%26mode=render) (*Master Project 2021*).
+2. **Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://mfr.de-1.osf.io/render?url=https://osf.io/8sehj/?direct%26mode=render%26action=download%26mode=render) (*2020*).
+3. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
+4. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
+5. Chen, Yingying, and **Xiaozhe Yao**. [Knowledge Graph Embedding and OpenKE](https://mfr.de-1.osf.io/render?url=https://osf.io/byhvc/?action=download%26mode=render) (*2019*).
+6. Chen, Yingying, Weijie Niu and **Xiaozhe Yao**. [Diversity in Open Source Software Community and its Impact on Software Quality](https://mfr.de-1.osf.io/render?url=https://osf.io/kg3hn/?action=download%26mode=render) (*2019*).
 
 ## Theses
 
