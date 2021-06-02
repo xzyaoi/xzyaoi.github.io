@@ -38,18 +38,22 @@ In chronological order:
 
 ## Work Experience
 
-* **Innovator Fellow** at the [Library Labs, ETH Zürich](https://librarylab.ethz.ch). *June 2021*.
+* **Innovator Fellow** at the [Library Labs, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
+* **Visiting Student** at the Computer Vision Lab, Shenzhen University.
+* **Engineer and Associate Founder** at AICAMP.co.,LTD. *May 2018*
+* **Data Scientist (Intern)** at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. *March 2016 - March 2017*.
 
 ## Education
 
 * **Master of Data Science** (with a minor in Mathematics) at the Institut für Informatik, Universität Zürich. *Sept 2019 to June 2021* (ca.).
-* **Micromaster (online) in Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
+* **Micromaster (online) in Statistics and Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
 ## Teaching
 
 I served as the teaching assistant at both Shenzhen University and Universität Zürich, for the following courses: 
 
+* Foundations of Data Science. Universität Zürich. *Fall 2021*.
 * Informatics II: Data Structure and Algorithms. Universität Zürich. *Spring 2021*. [Cheatsheet](https://xzyaoi.github.io/uzh-info2-cheatsheet/).
 * Informatics I: Introduction to Programming. Universität Zürich. *Fall 2020*.
 * Professional English for Computer Science. Shenzhen University. *Spring 2019*.

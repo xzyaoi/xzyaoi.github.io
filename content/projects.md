@@ -5,7 +5,7 @@ title = "Projects"
 ## Active Projects
 
 * [AID - One Stop Machine Learning Model Management System](https://github.com/autoai-org/aid). 
-* [EurusDB](https://github.com/autoai-org/eurusdb).
+* [EurusDB (Permission Required)](https://github.com/autoai-org/eurusdb).
 
 ## Datasets
 
@@ -13,7 +13,7 @@ title = "Projects"
 * [Covid-19 Twitter Dataset](https://github.com/xzyaoi/covid-sentiment).
 * [Open Source Community Analytical Dataset](https://github.com/xzyaoi/diversity-in-open-source)
 
-## Past Projects
+## Past (inactive) Projects
 
 * [Foodie: Comprehensive Food Recommendation](https://www.youtube.com/watch?v=WE7AFbWejHs&feature=youtu.be).
 * [Tinynet: Implement Neural Network From Scratch](https://github.com/xzyaoi/tinynet).
