@@ -5,7 +5,7 @@ title = "Projects"
 ## Active Projects
 
 * [AID - One Stop Machine Learning Model Management System](https://github.com/autoai-org/aid). 
-* [EurusDB (Permission Required)](https://github.com/autoai-org/eurusdb).
+* [EurusDB (in progress)](https://github.com/autoai-org/eurusdb).
 
 ## Datasets
 

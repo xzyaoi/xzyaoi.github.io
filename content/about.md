@@ -6,12 +6,12 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am Xiaozhe Yao, currently a master student at the Institut für Informatik (IfI), Universität Zürich.
+I am Xiaozhe Yao, currently a master student at the [Institut für Informatik (IfI), Universität Zürich](https://www.ifi.uzh.ch/en.html). I am also working at [ETH Library Lab](https://www.librarylab.ethz.ch/) on the machine learning management system as an innovation fellow.
 
 ## Research Interests
 
 * Machine Learning Model, Data and Application Management [AID](https://github.com/autoai-org/aid).
-* Learned Indexes and its application in databases [EurusDB (permission required)](https://github.com/autoai-org/eurusdb).
+* Learned Indexes and its application in databases [EurusDB (in progress)](https://github.com/autoai-org/eurusdb).
 * Machine Learning in Social Sciences, Computer Vision and other applications.
 
 ## Publications
@@ -35,11 +35,11 @@ In chronological order:
 
 ## Theses
 
-1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Shiqi Yu.
+1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by [Prof. Dr. Shiqi Yu](https://faculty.sustech.edu.cn/yusq/en/).
 
-## Work Experience
+## Fellowships and Work Experiences
 
-* **Innovator Fellow** at the [Library Labs, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
+* **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
 * **Visiting Student** at the Computer Vision Lab, Shenzhen University.
 * **Engineer and Associate Founder** at AICAMP.co.,LTD. *May 2018*
 * **Data Scientist (Intern)** at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. *March 2016 - March 2017*.
