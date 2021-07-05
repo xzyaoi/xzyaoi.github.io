@@ -16,7 +16,7 @@ I am Xiaozhe Yao, currently a master student at the [Institut für Informatik (I
 
 ## Publications
 
-In chronological order:
+In inverse chronological order:
 
 1. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager." Workshop on MLOps, MLSys, *2020*.
 2. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services." World Congress on Services. Springer, Cham, *2018*.
@@ -24,9 +24,9 @@ In chronological order:
 
 ## Technical Reports
 
-In chronological order:
+In inverse chronological order:
 
-1. **Yao, Xiaozhe**, Neeraj Kumar and Nivedita Nivedita. [Implementing learned indexes on 1 and 2 dimensional data](https://mfr.de-1.osf.io/render?url=https://osf.io/2cerk/?direct%26mode=render%26action=download%26mode=render) (*Master Project 2021*).
+1. **Yao, Xiaozhe**, Neeraj Kumar and Nivedita Nivedita. [Slides](https://mfr.de-1.osf.io/render?url=https://osf.io/m2sj6/?direct%26mode=render%26action=download%26mode=render)/[Implementing learned indexes on 1 and 2 dimensional data](https://mfr.de-1.osf.io/render?url=https://osf.io/2cerk/?direct%26mode=render%26action=download%26mode=render) (*Master Project 2021*).
 2. **Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://mfr.de-1.osf.io/render?url=https://osf.io/8sehj/?direct%26mode=render%26action=download%26mode=render) (*2020*).
 3. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
 4. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
