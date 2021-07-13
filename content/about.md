@@ -6,7 +6,15 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-I am Xiaozhe Yao, currently a master student at the Institut für Informatik (IfI), Universität Zürich.
+Xiaozhe Yao is a master student majoring in Data Science at University of Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
+
+Xiaozhe Yao gained his bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food data. Since then he has been working on machine learning and computer vision systems that aim to reduce the barriers to applying algorithms.
+
+In the past few years, he has been working on IndustryAI and CVTron, two end-to-end toolkits for computer vision. During this time he witnessed the difficulties that are encountered while trying to apply machine learning and grew his motivation to tackle these challenges.
+
+He is currently work on the project AID as an Innovator Fellow at ETH Zurich Library Lab. The objective of AID is to support the application of machine learning algorithms by imitating a library. It provides a digital library for searching, filtering and inspecting machine learning models. It also enables developers to easily install and run machine learning algorithms within a few unified steps.
+
+Outside of current project, he is also interested in machine learning in database systems.
 
 ## Research Interests
 
