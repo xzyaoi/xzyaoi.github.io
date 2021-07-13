@@ -19,12 +19,12 @@ Outside of current project, he is also interested in machine learning in databas
 ## Research Interests
 
 * Machine Learning Model, Data and Application Management [AID](https://github.com/autoai-org/aid).
-* Learned Indexes and its application in databases [EurusDB (permission required)](https://github.com/autoai-org/eurusdb).
+* Learned Indexes and its application in databases [EurusDB (in progress)](https://github.com/autoai-org/eurusdb).
 * Machine Learning in Social Sciences, Computer Vision and other applications.
 
 ## Publications
 
-In chronological order:
+In inverse chronological order:
 
 1. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager." Workshop on MLOps, MLSys, *2020*.
 2. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services." World Congress on Services. Springer, Cham, *2018*.
@@ -32,9 +32,9 @@ In chronological order:
 
 ## Technical Reports
 
-In chronological order:
+In inverse chronological order:
 
-1. **Yao, Xiaozhe**, Neeraj Kumar and Nivedita Nivedita. [Implementing learned indexes on 1 and 2 dimensional data](https://mfr.de-1.osf.io/render?url=https://osf.io/2cerk/?direct%26mode=render%26action=download%26mode=render) (*Master Project 2021*).
+1. **Yao, Xiaozhe**, Neeraj Kumar and Nivedita Nivedita. [Slides](https://mfr.de-1.osf.io/render?url=https://osf.io/m2sj6/?direct%26mode=render%26action=download%26mode=render)/[Implementing learned indexes on 1 and 2 dimensional data](https://mfr.de-1.osf.io/render?url=https://osf.io/2cerk/?direct%26mode=render%26action=download%26mode=render) (*Master Project 2021*).
 2. **Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://mfr.de-1.osf.io/render?url=https://osf.io/8sehj/?direct%26mode=render%26action=download%26mode=render) (*2020*).
 3. **Yao, Xiaozhe**. [Implementation of Naive Bayes Classifier](https://mfr.de-1.osf.io/render?url=https://osf.io/ws4ev/?direct%26mode=render%26action=download%26mode=render) (*2020*).
 4. **Yao, Xiaozhe**. [Implementing Deconvolution to Visualize and Understand Convolutional Neural Networks](https://mfr.de-1.osf.io/render?url=https://osf.io/hbryd/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Michael Böhlen and Qing Chen (*2020*).
@@ -43,11 +43,11 @@ In chronological order:
 
 ## Theses
 
-1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by Prof. Dr. Shiqi Yu.
+1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by [Prof. Dr. Shiqi Yu](https://faculty.sustech.edu.cn/yusq/en/).
 
-## Work Experience
+## Fellowships and Work Experiences
 
-* **Innovator Fellow** at the [Library Labs, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
+* **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
 * **Visiting Student** at the Computer Vision Lab, Shenzhen University.
 * **Engineer and Associate Founder** at AICAMP.co.,LTD. *May 2018*
 * **Data Scientist (Intern)** at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. *March 2016 - March 2017*.
