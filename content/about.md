@@ -6,15 +6,15 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a master student majoring in Data Science at University of Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
+Xiaozhe Yao is a master student majoring in Data Science at the University of Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
 
-Xiaozhe Yao gained his bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food data. Since then he has been working on machine learning and computer vision systems that aim to reduce the barriers to applying algorithms.
+Xiaozhe Yao gained his Bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food nutrition data. Since then, he has been working on machine learning and computer vision systems aiming to reduce the barriers to applying algorithms.
 
-In the past few years, he has been working on IndustryAI and CVTron, two end-to-end toolkits for computer vision. During this time he witnessed the difficulties that are encountered while trying to apply machine learning and grew his motivation to tackle these challenges.
+In the past few years, he has been working on IndustryAI and CVTron, two end-to-end toolkits for computer vision. He witnessed the difficulties encountered while applying machine learning and grew his motivation to tackle these challenges.
 
-He is currently work on the project AID as an Innovator Fellow at ETH Zurich Library Lab. The objective of AID is to support the application of machine learning algorithms by imitating a library. It provides a digital library for searching, filtering and inspecting machine learning models. It also enables developers to easily install and run machine learning algorithms within a few unified steps.
+He is currently working on the project AID as an Innovator Fellow at ETH Zurich Library Lab. The objective of AID is to support the application of machine learning algorithms by imitating a library. It provides a digital library for searching, filtering and inspecting machine learning models. It also enables developers to easily install and run machine learning algorithms within a few unified steps.
 
-Outside of current project, he is also interested in machine learning in database systems.
+Outside of the current project, he is also interested in machine learning in database systems.
 
 ## Research Interests
 
@@ -43,9 +43,10 @@ In inverse chronological order:
 
 ## Theses
 
-1. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by [Prof. Dr. Shiqi Yu](https://faculty.sustech.edu.cn/yusq/en/).
+1. Master Thesis: [Implementation of Learned Cardinality Estimation in Database Contexts (Not available yet)], supervised by [Prof. Dr. Michael H. Bohlen, Prof. Dr. Anton Dignös, Qing Chen](https://www.ifi.uzh.ch/en/dbtg.html).
+2. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by [Prof. Dr. Shiqi Yu](https://faculty.sustech.edu.cn/yusq/en/).
 
-## Fellowships and Work Experiences
+## Work Experiences
 
 * **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
 * **Visiting Student** at the Computer Vision Lab, Shenzhen University.
@@ -54,7 +55,7 @@ In inverse chronological order:
 
 ## Education
 
-* **Master of Data Science** (with a minor in Mathematics) at the Institut für Informatik, Universität Zürich. *Sept 2019 to June 2021* (ca.).
+* **Master of Data Science** (with a minor in Mathematics) at the Institut für Informatik, Universität Zürich. *Sept 2019 to March 2022* (ca.).
 * **Micromaster (online) in Statistics and Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
@@ -62,13 +63,14 @@ In inverse chronological order:
 
 I served as the teaching assistant at both Shenzhen University and Universität Zürich, for the following courses: 
 
+* Informatics II: Data Structures and Algorithms. Universität Zürich. *Spring 2022*. [Cheatsheet](https://xzyaoi.github.io/uzh-info2-cheatsheet/).
 * Foundations of Data Science. Universität Zürich. *Fall 2021*.
-* Informatics II: Data Structure and Algorithms. Universität Zürich. *Spring 2021*. [Cheatsheet](https://xzyaoi.github.io/uzh-info2-cheatsheet/).
+* Informatics II: Data Structures and Algorithms. Universität Zürich. *Spring 2021*. [Cheatsheet](https://xzyaoi.github.io/uzh-info2-cheatsheet/).
 * Informatics I: Introduction to Programming. Universität Zürich. *Fall 2020*.
 * Professional English for Computer Science. Shenzhen University. *Spring 2019*.
 * Web Programming (Java Web). Shenzhen University. *2016*.
 * Web Programming (Android). Shenzhen University. *2015*.
-* Data Structure and Algorithms. Shenzhen University. *2014*.
+* Data Structures and Algorithms. Shenzhen University. *2014*.
 
 ## Entrepreneurship Experience
 
@@ -78,10 +80,11 @@ I served as the teaching assistant at both Shenzhen University and Universität 
 
 ## Awards, Scholarships and Projects Grants.
 
+* Cyberport Incubation Programme (500K HKD). Hong Kong. *2016*.
 * Excellent Youth Entrepreneur of Nanshan District, Shenzhen. *2017*.
 * Loongson Scholarship. *2015*.
-* Individual Makers Fund, Shenzhen Science and Technology Committee. *2016*.
-* Cyberport Creative Micro Fund. Hong Kong. *2016*.
+* Individual Makers Fund, Shenzhen Science and Technology Committee. (100K CNY) *2016*.
+* Cyberport Creative Micro Fund. Hong Kong. (100K HKD) *2016*.
 * Top Academic Scholarship and several university-wide scholarships during *2013~2017*.
 
 ## Community Service
