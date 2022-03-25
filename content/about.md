@@ -6,11 +6,11 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a master student majoring in Data Science at the University of Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
+Xiaozhe Yao is a master's student majoring in Data Science at the University of Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
 
-Xiaozhe Yao gained his Bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food nutrition data. Since then, he has been working on machine learning and computer vision systems aiming to reduce the barriers to applying algorithms.
+Prior to University of Zurich, Xiaozhe Yao gained his Bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food nutrition data. Since then, he has been working on machine learning and computer vision systems aiming to reduce the barriers to applying algorithms.
 
-In the past few years, he has been working on IndustryAI and CVTron, two end-to-end toolkits for computer vision. He witnessed the difficulties encountered while applying machine learning and grew his motivation to tackle these challenges.
+In the past few years, he has been working on IndustryAI and CVTron, the end-to-end toolkit for computer vision. He witnessed the difficulties encountered while applying machine learning and grew his motivation to tackle these challenges in the entire machine learning pipeline management.
 
 He is currently working on the project AID as an Innovator Fellow at ETH Zurich Library Lab. The objective of AID is to support the application of machine learning algorithms by imitating a library. It provides a digital library for searching, filtering and inspecting machine learning models. It also enables developers to easily install and run machine learning algorithms within a few unified steps.
 
@@ -19,7 +19,7 @@ Outside of the current project, he is also interested in machine learning in dat
 ## Research Interests
 
 * Machine Learning Model, Data and Application Management [AID](https://github.com/autoai-org/aid).
-* Learned Indexes and its application in databases [EurusDB (in progress)](https://github.com/autoai-org/eurusdb).
+* Machine Learning in Databases [EurusDB (in progress)](https://github.com/autoai-org/eurusdb).
 * Machine Learning in Social Sciences, Computer Vision and other applications.
 
 ## Publications
@@ -48,7 +48,7 @@ In inverse chronological order:
 
 ## Work Experiences
 
-* **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Present*.
+* **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - March 2022*.
 * **Visiting Student** at the Computer Vision Lab, Shenzhen University.
 * **Engineer and Associate Founder** at AICAMP.co.,LTD. *May 2018*
 * **Data Scientist (Intern)** at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. *March 2016 - March 2017*.
@@ -71,6 +71,13 @@ I served as the teaching assistant at both Shenzhen University and Universität 
 * Web Programming (Java Web). Shenzhen University. *2016*.
 * Web Programming (Android). Shenzhen University. *2015*.
 * Data Structures and Algorithms. Shenzhen University. *2014*.
+
+## Talks
+
+If you are interested in the slides of the following talks, please contact me.
+
+* *Techno Hour: Learned Cardinality Estimation in Database Systems* at SAP, hosted by Koesling Sven. *5, April 2022*.
+* *Tech Talk: AID - Towards Findable, Accessible and Usable AI* at ETH Library, hosted by Koesling Sven. *15, Feb 2022*.
 
 ## Entrepreneurship Experience
 
