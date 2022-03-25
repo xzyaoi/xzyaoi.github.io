@@ -76,7 +76,7 @@ I served as the teaching assistant at both Shenzhen University and Universität 
 
 If you are interested in the slides of the following talks, please contact me.
 
-* *Techno Hour: Learned Cardinality Estimation in Database Systems* at SAP, hosted by Koesling Sven. *5, April 2022*.
+* *Techno Hour: Learned Cardinality Estimation in Database Systems* at SAP, hosted by Thomas Zurek. *5, April 2022*.
 * *Tech Talk: AID - Towards Findable, Accessible and Usable AI* at ETH Library, hosted by Koesling Sven. *15, Feb 2022*.
 
 ## Entrepreneurship Experience
