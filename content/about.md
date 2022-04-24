@@ -26,7 +26,7 @@ Outside of the current project, he is also interested in machine learning in dat
 
 In inverse chronological order:
 
-1. **Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang**. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)".
+1. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)".
 2. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
 3. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
 4. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
