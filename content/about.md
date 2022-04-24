@@ -26,9 +26,10 @@ Outside of the current project, he is also interested in machine learning in dat
 
 In inverse chronological order:
 
-1. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager." Workshop on MLOps, MLSys, *2020*.
-2. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services." World Congress on Services. Springer, Cham, *2018*.
-3. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study." International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
+1. **Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang**. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)".
+2. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
+3. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
+4. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
 
 ## Technical Reports
 
@@ -55,7 +56,7 @@ In inverse chronological order:
 
 ## Education
 
-* **Master of Data Science** (with a minor in Mathematics) at the Institut für Informatik, Universität Zürich. *Sept 2019 to March 2022* (ca.).
+* **Master of Data Science** (with a minor in Informatics), summa cum laude, at the Institut für Informatik, Universität Zürich. *Sept 2019 to April 2022*
 * **Micromaster (online) in Statistics and Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
