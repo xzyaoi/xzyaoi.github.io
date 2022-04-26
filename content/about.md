@@ -44,12 +44,12 @@ In inverse chronological order:
 
 ## Theses
 
-1. Master Thesis: [Implementation of Learned Cardinality Estimation in Database Contexts (Not available yet)], supervised by [Prof. Dr. Michael H. Bohlen, Prof. Dr. Anton Dignös, Qing Chen](https://www.ifi.uzh.ch/en/dbtg.html).
+1. Master Thesis: [Implementation of Learned Cardinality Estimation in Database Contexts](https://www.merlin.uzh.ch/publication/show/22306), supervised by [Prof. Dr. Michael H. Bohlen, Prof. Dr. Anton Dignös, Qing Chen](https://www.ifi.uzh.ch/en/dbtg.html).
 2. Bachelor Thesis: [Face Detection with Multi-Block Local Binary Pattern in OpenCV](https://mfr.de-1.osf.io/render?url=https://osf.io/kme5n/?direct%26mode=render%26action=download%26mode=render), supervised by [Prof. Dr. Shiqi Yu](https://faculty.sustech.edu.cn/yusq/en/).
 
 ## Work Experiences
 
-* **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - March 2022*.
+* **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Feb 2022*.
 * **Visiting Student** at the Computer Vision Lab, Shenzhen University.
 * **Engineer and Associate Founder** at AICAMP.co.,LTD. *May 2018*
 * **Data Scientist (Intern)** at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. *March 2016 - March 2017*.
