@@ -8,7 +8,7 @@ I love travelling, meeting new people and taking pictures. I have [a website to 
 
 * Zurich. Switzerland.
 * Helsinki. Finland. 
-* Los Angeles, Pasadena, San Fransisco. California.
+* Los Angeles, Pasadena, San Francisco. California.
 * Kuala Lumpur, Sabah. Malaysia
 * Taiwan. China
 * Harbin, Changchun and Shenyang. China
