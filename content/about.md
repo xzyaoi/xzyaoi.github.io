@@ -6,7 +6,7 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a first-year doctoral student at [DS3Lab](https://ds3lab.com), Systems Group, Department of Computer Science, ETH Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
+Xiaozhe Yao is a first-year doctoral student at [DS3Lab](https://ds3lab.com), Systems Group, Department of Computer Science, ETH Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible. He is an enginner, and he builds possibly cool [stuff](/projects).
 
 Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the University of Zurich in Data Science and Bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food nutrition data. Since then, he has been working on machine learning and computer vision systems aiming to reduce the barriers to applying algorithms.
 
@@ -16,10 +16,11 @@ Between 2021 and 2022, he worked on the project AID as an Innovator Fellow at ET
 
 In inverse chronological order:
 
-1. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)".
-2. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
-3. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
-4. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
+1. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)".
+2. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)".
+3. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
+4. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
+5. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
 
 ## Technical Reports
 
@@ -47,7 +48,6 @@ In inverse chronological order:
 ## Education
 
 * **Master of Data Science** (with a minor in Informatics), summa cum laude, at the Institut für Informatik, Universität Zürich. *Sept 2019 to April 2022*
-* **Micromaster (online) in Statistics and Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
 ## Teaching
