@@ -4,7 +4,8 @@ title = "Projects"
 
 ## Active Projects
 
-* [SHiFT](https://docs.shift.ml/). An Efficient and Scalable Search Engine for Transfer Learning.
+* [SHiFT - Search Engine for Machine Learning](https://github.com/DS3Lab/shift).
+* [Data-Centric vision Benchmark for Training Data Debugging](https://github.com/DS3Lab/dataperf-vision-debugging).
 
 ## Datasets
 
@@ -19,4 +20,4 @@ title = "Projects"
 * [Covid-Sentiment: Analyse People's Response to Covid-19 from Tweets](https://github.com/xzyaoi/covid-sentiment/). [Demo](https://covid19.yaonotes.org/)
 * [Industry AI: Online Annotation for Image Datasets](https://www.youtube.com/watch?v=T1GqKRe7OlQ).
 * [AID - One Stop Machine Learning Model Management System](https://github.com/autoai-org/aid). 
-* [EurusDB (in progress)](https://github.com/autoai-org/eurusdb).
+* [EurusDB](https://github.com/autoai-org/eurusdb).
