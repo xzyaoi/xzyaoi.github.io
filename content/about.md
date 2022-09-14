@@ -6,11 +6,11 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a first-year doctoral student at [DS3Lab](https://ds3lab.com), Systems Group, Department of Computer Science, ETH Zurich. With interests spanning from machine learning systems to self-learning databases, his long-term goal is to make machine learning automatic and accessible.
+Xiaozhe Yao is a first-year doctoral student advised by Prof. Dr. [Ce Zhang](https://zhangce.github.io/) at [DS3Lab](https://ds3lab.com), Systems Group, Department of Computer Science, ETH Zurich. With interests spanning from MLOps algorithms and systems to application of machine learning in existing systems, his long-term goal is to make machine learning automatic and accessible.
 
-Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the University of Zurich in Data Science and Bachelor’s degree at Shenzhen University in Computer Science. He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food nutrition data. Since then, he has been working on machine learning and computer vision systems aiming to reduce the barriers to applying algorithms.
+Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the University of Zurich in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at Shenzhen University in Computer Science, advised Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at Shenzhen Institute of Advanced Technology in 2016 where he investigated recommendation systems for food nutrition data. Since then, he has been working on machine learning and computer vision systems aiming to reduce the barriers to applying algorithms.
 
-Between 2021 and 2022, he worked on the project AID as an Innovator Fellow at ETH Zurich Library Lab. The objective of AID is to support the application of machine learning algorithms by imitating a library. It provides a digital library for searching, filtering and inspecting machine learning models. It also enables developers to easily install and run machine learning algorithms within a few unified steps.
+Between 2021 and 2022, he worked on the project AID as an Innovator Fellow at the [Library Lab](https://www.librarylab.ethz.ch/), ETH Zurich. The objective of AID is to support the application of machine learning algorithms by imitating a real library. It provides a unified programming interface to access and manage machine learning models, a digital library for searching, filtering and inspecting machine learning models.
 
 ## Publications
 
@@ -47,7 +47,6 @@ In inverse chronological order:
 ## Education
 
 * **Master of Data Science** (with a minor in Informatics), summa cum laude, at the Institut für Informatik, Universität Zürich. *Sept 2019 to April 2022*
-* **Micromaster (online) in Statistics and Data Science** at  Massachusetts Institute of Technology, *Sept 2020 to December 2021* (ca.).
 * **Bachelor in Computer Science** at the College of Computer Science and Software Engineering, Shenzhen University, with an honour in high-performance computing. *Sept 13 to June 2017*.
 
 ## Teaching

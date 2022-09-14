@@ -4,7 +4,7 @@ title = "Projects"
 
 ## Active Projects
 
-TBA.
+* [SHiFT](https://docs.shift.ml/). An Efficient and Scalable Search Engine for Transfer Learning.
 
 ## Datasets
 
