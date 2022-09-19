@@ -16,8 +16,8 @@ Between 2021 and 2022, he worked on the project AID as an Innovator Fellow at th
 
 In inverse chronological order:
 
-1. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)".
-2. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)".
+1. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022).
+2. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". To appear in International Conference on Very Large Data Bases ([VLDB 2023](https://vldb.org/2023/)).
 3. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
 4. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
 5. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
