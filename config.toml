@@ -19,10 +19,6 @@ googleAnalytics = "UA-168773217-1"
 
 [menu]
   [[menu.main]]
-    name = "Yaonotes"
-    url = "https://yaonotes.org"
-    weight = 1
-  [[menu.main]]
     name = "Resume"
     url = "/resume.pdf"
     # 'pre' and 'post' hooks are available
@@ -32,10 +28,6 @@ googleAnalytics = "UA-168773217-1"
   [[menu.main]]
     name = "Projects"
     url = "/projects"
-    weight = 3
-  [[menu.main]]
-    name = "Fun Facts"
-    url = "/fun"
     weight = 3
   [[menu.main]]
     name = "Contact"
