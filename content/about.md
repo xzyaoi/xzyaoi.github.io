@@ -87,4 +87,5 @@ If you are interested in the slides of the following talks, please contact me.
 
 ## Community Service
 
+* Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org)
 * Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*
