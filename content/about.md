@@ -6,7 +6,7 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a first-year doctoral student advised by [Prof. Dr. Ce Zhang](https://zhangce.github.io/) at [DS3Lab](https://ds3lab.com), [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch). He is also a research consultant at [Together](https://together.xyz) in his spare time. With interests spanning from MLOps to Data-Centric Systems, his dream is to democratize machine learning and make it accessible to a wider range of audience.
+Xiaozhe Yao is a first-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch). With interests spanning from MLOps to Data-Centric Systems, his dream is to democratize machine learning and make it accessible to a wider range of audience.
 
 Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University of Zurich](https://uzh.ch) in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at [Shenzhen University](https://szu.edu.cn) in Computer Science, advised by Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at [Shenzhen Institute of Advanced Technology](https://siat.ac.cn) in 2016 as a data scientist.
 
