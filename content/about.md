@@ -6,7 +6,7 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a first-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch). With interests spanning from MLOps to Data-Centric Systems, his dream is to democratize machine learning and make it accessible to a wider range of audience.
+Xiaozhe Yao is a second-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch). With interests spanning from MLOps to Data-Centric Systems, his dream is to democratize machine learning and make it accessible to a wider range of audience.
 
 Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University of Zurich](https://uzh.ch) in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at [Shenzhen University](https://szu.edu.cn) in Computer Science, advised by Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at [Shenzhen Institute of Advanced Technology](https://siat.ac.cn) in 2016 as a data scientist.
 
@@ -40,6 +40,7 @@ In inverse chronological order:
 
 ## Work Experiences
 
+* **Research Consultant** at the [Together Computing](https://www.together.xyz/). *Dec 2022 - Jun 2023*.
 * **Innovation Fellow** at the [Library Lab, ETH Zürich](https://librarylab.ethz.ch). *June 2021 - Feb 2022*.
 * **Visiting Student** at the Computer Vision Lab, Shenzhen University.
 * **Engineer and Associate Founder** at AICAMP.co.,LTD. *May 2018*
@@ -86,6 +87,6 @@ If you are interested in the slides of the following talks, please contact me.
 * Top Academic Scholarship and several university-wide scholarships during *2013~2017*.
 
 ## Community Service
-
-* Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org)
-* Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*
+* Reviewer at [DEEM Workshop]((http://deem-workshop.org/)). *2023*.
+* Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
+* Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*.
