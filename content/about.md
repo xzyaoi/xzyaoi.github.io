@@ -14,17 +14,18 @@ Between 2021 and 2022, he worked on the [project AID](https://aid.autoai.org) as
 
 ## Publications
 
-In inverse chronological order:
+In chronological order:
 
-1. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022).
-2. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". To appear in International Conference on Very Large Data Bases ([VLDB 2023](https://vldb.org/2023/)).
-3. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
-4. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
-5. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
+1. Berivan Isik, Hermann Kumbong, Wanyi Ning, **Xiaozhe Yao**, Sanmi Koyejo, Ce Zhang, "[GPT-Zip: Deep Compression of Finetuned Large Language Models](https://openreview.net/forum?id=hO0c2tG2xL)". [ICML Workshop on Efficient Systems for Foundation Models](https://es-fomo.com/).
+2. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML Workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022).
+3. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". To appear in International Conference on Very Large Data Bases ([VLDB 2023](https://vldb.org/2023/)).
+4. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
+5. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
+6. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
 
 ## Technical Reports
 
-In inverse chronological order:
+In chronological order:
 
 1. **Yao, Xiaozhe**, Neeraj Kumar and Nivedita Nivedita. [Slides](https://mfr.de-1.osf.io/render?url=https://osf.io/m2sj6/?direct%26mode=render%26action=download%26mode=render)/[Implementing learned indexes on 1 and 2 dimensional data](https://mfr.de-1.osf.io/render?url=https://osf.io/2cerk/?direct%26mode=render%26action=download%26mode=render) (*Master Project 2021*).
 2. **Yao, Xiaozhe**. [ModelDB: Machine Learning Model Management](https://mfr.de-1.osf.io/render?url=https://osf.io/8sehj/?direct%26mode=render%26action=download%26mode=render) (*2020*).
