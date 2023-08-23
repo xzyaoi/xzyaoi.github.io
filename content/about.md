@@ -6,7 +6,7 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a second-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch) advised by [Prof. Dr. Ana Klimović](https://anakli.inf.ethz.ch/). With interests spanning from MLOps to Data-Centric Systems, his dream is to democratize machine learning and make it accessible to a wider range of audience.
+Xiaozhe Yao is a second-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch) advised by [Prof. Dr. Ana Klimović](https://anakli.inf.ethz.ch/). With interests spanning from MLOps to Data-Centric Systems, his research direction is to democratize machine learning and make it accessible to a wider range of audience.
 
 Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University of Zurich](https://uzh.ch) in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at [Shenzhen University](https://szu.edu.cn) in Computer Science, advised by Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at [Shenzhen Institute of Advanced Technology](https://siat.ac.cn) in 2016 as a data scientist.
 
@@ -17,8 +17,8 @@ Between 2021 and 2022, he worked on the [project AID](https://aid.autoai.org) as
 In chronological order:
 
 1. Berivan Isik, Hermann Kumbong, Wanyi Ning, **Xiaozhe Yao**, Sanmi Koyejo, Ce Zhang, "[GPT-Zip: Deep Compression of Finetuned Large Language Models](https://openreview.net/forum?id=hO0c2tG2xL)". [ICML Workshop on Efficient Systems for Foundation Models](https://es-fomo.com/).
-2. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML Workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022).
-3. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". To appear in International Conference on Very Large Data Bases ([VLDB 2023](https://vldb.org/2023/)).
+2. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML Workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022). [Code](https://github.com/mlcommons/dataperf).
+3. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". To appear in International Conference on Very Large Data Bases ([VLDB 2023](https://vldb.org/2023/)). [Code](https://github.com/ds3lab/shift).
 4. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
 5. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
 6. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
@@ -91,3 +91,7 @@ If you are interested in the slides of the following talks, please contact me.
 * Reviewer at [DEEM Workshop]((http://deem-workshop.org/)). *2023*.
 * Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
 * Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*.
+
+## Misc
+
+During my spare time, I like to *casually* travel around and take some photos. Find my photos at [Unsplash](https://unsplash.com/collections/PEHOFCF6ip8/landscapes).
