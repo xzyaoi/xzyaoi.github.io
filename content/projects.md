@@ -4,14 +4,14 @@ title = "Projects"
 
 ## Active Projects
 
-* [SHiFT - Search Engine for Machine Learning](https://github.com/DS3Lab/shift).
-* [Data-Centric vision Benchmark for Training Data Debugging](https://github.com/DS3Lab/dataperf-vision-debugging).
+* [FMEngine - Utilities to Train Very Large Language Models](https://github.com/eth-easl/fmengine).
 
 ## Datasets
 
+* [RedPajama - Large-Scale Pre-training Dataset for Language Modeling](https://github.com/togethercomputer/RedPajama-Data).
 * [Crosstalk Dataset](https://github.com/xzyaoi/crosstalk-dataset).
 * [Covid-19 Twitter Dataset](https://github.com/xzyaoi/covid-sentiment).
-* [Open Source Community Analytical Dataset](https://github.com/xzyaoi/diversity-in-open-source)
+* [Open Source Community Analytical Dataset](https://github.com/xzyaoi/diversity-in-open-source).
 
 ## Past (inactive) Projects
 
@@ -21,3 +21,5 @@ title = "Projects"
 * [Industry AI: Online Annotation for Image Datasets](https://www.youtube.com/watch?v=T1GqKRe7OlQ).
 * [AID - One Stop Machine Learning Model Management System](https://github.com/autoai-org/aid). 
 * [EurusDB](https://github.com/autoai-org/eurusdb).
+* [SHiFT - Search Engine for Machine Learning](https://github.com/DS3Lab/shift).
+* [Data-Centric vision Benchmark for Training Data Debugging](https://github.com/DS3Lab/dataperf-vision-debugging).
