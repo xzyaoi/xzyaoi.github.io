@@ -12,20 +12,18 @@ Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University o
 
 Between 2021 and 2022, he worked on the [project AID](https://aid.autoai.org) as an Innovator Fellow at the [Library Lab](https://www.librarylab.ethz.ch/), ETH Zurich. The objective of AID is to support the application of machine learning algorithms by imitating a real library. It provides a unified programming interface to access and manage machine learning models, a digital library for searching, filtering and inspecting machine learning models.
 
-## Publications
+## Selected Publications
 
 In chronological order:
 
 (* == equal contribution)
-
-1. Luis Oala, Manil Maskey, Lilith Bat-Leah, Alicia Parrish, Nezihe Merve Gürel, Tzu-Sheng Kuo, Yang Liu, Rotem Dror, Danilo Brajovic, **Xiaozhe Yao**, et al. "[DMLR: Data-centric Machine Learning Research -- Past, Present and Future](https://arxiv.org/abs/2311.13028)". Preprint, *2023*.
-2. Jiang, Youhe\*, Ran Yan\*, **Xiaozhe Yao\***, Beidi Chen, and Binhang Yuan. "[HexGen: Generative Inference of Foundation Model over Heterogeneous Decentralized Environment](https://arxiv.org/abs/2311.11514)" Preprint, *2023*.
-3. Berivan Isik\*, Hermann Kumbong\*, Wanyi Ning\*, **Xiaozhe Yao\***, Sanmi Koyejo, Ce Zhang, "[GPT-Zip: Deep Compression of Finetuned Large Language Models](https://openreview.net/forum?id=hO0c2tG2xL)". [ICML Workshop on Efficient Systems for Foundation Models](https://es-fomo.com/).
-4. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML Workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022). [NeurIPS 2023 Datasets and Benchmarks](https://openreview.net/forum?id=LaFKTgrZMG&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions)). [Code](https://github.com/mlcommons/dataperf).
-5. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". ([VLDB 2023](https://vldb.org/2023/)). [Code](https://github.com/ds3lab/shift).
-6. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
-7. Chen, Yingying, and **Xiaozhe Yao**. "CVTron Web: A Versatile Framework for Online Computer Vision Services" World Congress on Services. Springer, Cham, *2018*.
-8. **Yao, Xiaozhe**, et al. "Face Based Advertisement Recommendation with Deep Learning: A Case Study" International Conference on Smart Computing and Communication. Springer, Cham, *2017*.
+1. **Yao, Xiaozhe**, and Ana Klimovic. ["DeltaZip: Multi-Tenant Language Model Serving via Delta Compression."](https://arxiv.org/abs/2312.05215) arXiv preprint arXiv:2312.05215 (2023). [Code](https://github.com/eth-easl/deltazip).
+2. Luis Oala, Manil Maskey, Lilith Bat-Leah, Alicia Parrish, Nezihe Merve Gürel, Tzu-Sheng Kuo, Yang Liu, Rotem Dror, Danilo Brajovic, **Xiaozhe Yao**, et al. "[DMLR: Data-centric Machine Learning Research -- Past, Present and Future](https://arxiv.org/abs/2311.13028)". Preprint, *2023*.
+3. Jiang, Youhe\*, Ran Yan\*, **Xiaozhe Yao\***, Beidi Chen, and Binhang Yuan. "[HexGen: Generative Inference of Foundation Model over Heterogeneous Decentralized Environment](https://arxiv.org/abs/2311.11514)" Preprint, *2023*.
+4. Berivan Isik\*, Hermann Kumbong\*, Wanyi Ning\*, **Xiaozhe Yao\***, Sanmi Koyejo, Ce Zhang, "[GPT-Zip: Deep Compression of Finetuned Large Language Models](https://openreview.net/forum?id=hO0c2tG2xL)". [ICML Workshop on Efficient Systems for Foundation Models](https://es-fomo.com/).
+5. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML Workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022). [NeurIPS 2023 Datasets and Benchmarks](https://openreview.net/forum?id=LaFKTgrZMG&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions)). [Code](https://github.com/mlcommons/dataperf).
+6. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". ([VLDB 2023](https://vldb.org/2023/)). [Code](https://github.com/ds3lab/shift).
+7. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
 
 ## Theses
 
@@ -87,7 +85,8 @@ If you are interested in the slides of the following talks, please contact me.
 * Top Academic Scholarship and several university-wide scholarships during *2013~2017*.
 
 ## Community Service
-* Reviewer at [DEEM Workshop]((http://deem-workshop.org/)). *2023*.
+* Program co-chair at [DMLR Workshop @ ICLR 2024]((https://dmlr.ai/)). *2024*.
+* Reviewer at [DEEM Workshop @ SIGMOD 2023]((http://deem-workshop.org/)). *2023*.
 * Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
 * Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*.
 
