@@ -85,7 +85,7 @@ If you are interested in the slides of the following talks, please contact me.
 * Top Academic Scholarship and several university-wide scholarships during *2013~2017*.
 
 ## Community Service
-* Program co-chair at [DMLR Workshop @ ICLR 2024]((https://dmlr.ai/)). *2024*.
+* Co-organizer at [DMLR Workshop @ ICLR 2024]((https://dmlr.ai/)). *2024*.
 * Reviewer at [DEEM Workshop @ SIGMOD 2023]((http://deem-workshop.org/)). *2023*.
 * Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
 * Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*.
