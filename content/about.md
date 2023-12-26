@@ -75,18 +75,9 @@ If you are interested in the slides of the following talks, please contact me.
 * Co-funded AICAMP under the support from Cyberport.
 * Entrepreneurship and Innovation Training Programme, California State University, Long Beach.
 
-## Awards, Scholarships and Projects Grants.
-
-* Cyberport Incubation Programme (500K HKD). Hong Kong. *2016*.
-* Excellent Youth Entrepreneur of Nanshan District, Shenzhen. *2017*.
-* Loongson Scholarship. *2015*.
-* Individual Makers Fund, Shenzhen Science and Technology Committee. (100K CNY) *2016*.
-* Cyberport Creative Micro Fund. Hong Kong. (100K HKD) *2016*.
-* Top Academic Scholarship and several university-wide scholarships during *2013~2017*.
-
 ## Community Service
-* Co-organizer at [DMLR Workshop @ ICLR 2024]((https://dmlr.ai/)). *2024*.
-* Reviewer at [DEEM Workshop @ SIGMOD 2023]((http://deem-workshop.org/)). *2023*.
+* Co-organizer at [DMLR Workshop @ ICLR 2024](https://dmlr.ai/). *2024*.
+* Reviewer at [DEEM Workshop @ SIGMOD 2023](http://deem-workshop.org/). *2023*.
 * Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
 * Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*.
 
