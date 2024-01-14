@@ -6,11 +6,9 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a second-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch) advised by [Prof. Dr. Ana Klimović](https://anakli.inf.ethz.ch/). With interests spanning from MLOps to Data-Centric Systems, his research direction is to democratize machine learning and make it accessible to a wider range of audience.
+Xiaozhe Yao is a second-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch) advised by [Prof. Dr. Ana Klimović](https://anakli.inf.ethz.ch/). He works on a wide spectrum of machine learning and systems, his research direction is to build systems that support large-scale machine learning and democratize machine learning.
 
-Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University of Zurich](https://uzh.ch) in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at [Shenzhen University](https://szu.edu.cn) in Computer Science, advised by Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at [Shenzhen Institute of Advanced Technology](https://siat.ac.cn) in 2016 as a data scientist.
-
-Between 2021 and 2022, he worked on the [project AID](https://aid.autoai.org) as an Innovator Fellow at the [Library Lab](https://www.librarylab.ethz.ch/), ETH Zurich. The objective of AID is to support the application of machine learning algorithms by imitating a real library. It provides a unified programming interface to access and manage machine learning models, a digital library for searching, filtering and inspecting machine learning models.
+Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University of Zurich](https://uzh.ch) in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at [Shenzhen University](https://szu.edu.cn) in Computer Science, advised by Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at [Shenzhen Institute of Advanced Technology](https://siat.ac.cn) in 2016 as a data scientist. Between 2021 and 2022, he worked on the [project AID](https://aid.autoai.org) as an Innovator Fellow at the [Library Lab](https://www.librarylab.ethz.ch/), ETH Zurich. The objective of AID is to support the application of machine learning algorithms by imitating a real library. It provides a unified programming interface to access and manage machine learning models, a digital library for searching, filtering and inspecting machine learning models.
 
 ## Selected Publications
 
@@ -23,7 +21,7 @@ In chronological order:
 4. Berivan Isik\*, Hermann Kumbong\*, Wanyi Ning\*, **Xiaozhe Yao\***, Sanmi Koyejo, Ce Zhang, "[GPT-Zip: Deep Compression of Finetuned Large Language Models](https://openreview.net/forum?id=hO0c2tG2xL)". [ICML Workshop on Efficient Systems for Foundation Models](https://es-fomo.com/).
 5. Mazumder, Mark, Colby Banbury, **Xiaozhe Yao**, Bojan Karlaš, William Gaviria Rojas, Sudnya Diamos, Greg Diamos, et al. "[DataPerf: Benchmarks for Data-Centric AI Development](http://arxiv.org/abs/2207.10062)". [ICML Workshop (Benchmarking Data for Data-Centric AI)](https://sites.google.com/view/dataperf2022). [NeurIPS 2023 Datasets and Benchmarks](https://openreview.net/forum?id=LaFKTgrZMG&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FTrack%2FDatasets_and_Benchmarks%2FAuthors%23your-submissions)). [Code](https://github.com/mlcommons/dataperf).
 6. Cedric Renggli, **Xiaozhe Yao**, Luka Kolar, Luka Rimanic, Ana Klimovic, Ce Zhang. "[SHiFT: An Efficient, Flexible Search Engine for Transfer Learning](https://arxiv.org/abs/2204.01457)". ([VLDB 2023](https://vldb.org/2023/)). [Code](https://github.com/ds3lab/shift).
-7. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*.
+7. **Yao, Xiaozhe**. "MLPM: Machine Learning Package Manager" Workshop on MLOps, MLSys, *2020*. [Code](https://github.com/autoai-org/aid).
 
 ## Theses
 
@@ -69,17 +67,19 @@ If you are interested in the slides of the following talks, please contact me.
 * *Techno Hour: Learned Cardinality Estimation in Database Systems* at SAP, hosted by Thomas Zurek. *5, April 2022*.
 * *Tech Talk: AID - Towards Findable, Accessible and Usable AI* at ETH Library, hosted by Koesling Sven. *15, Feb 2022*.
 
-## Entrepreneurship Experience
-
-* Co-funded Zhitan Technology under the support from Shenzhen Institute of Advanced Technology. Our goal is to create an algorithm (along with mobile application) that could learn and recommend prefered food combinations to users.
-* Co-funded AICAMP under the support from Cyberport.
-* Entrepreneurship and Innovation Training Programme, California State University, Long Beach.
-
 ## Community Service
-* Co-organizer at [DMLR Workshop @ ICLR 2024](https://dmlr.ai/). *2024*.
-* Reviewer at [DEEM Workshop @ SIGMOD 2023](http://deem-workshop.org/). *2023*.
+
+* Co-organizer, [DMLR Workshop @ ICLR 2024](https://dmlr.ai/). *2024*.
+* Reviewer, [DEEM Workshop @ SIGMOD](http://deem-workshop.org/). *2023/2024*.
+* Reviewer, [Journal of Data-centric Machine Learning Research (DMLR)](https://data.mlr.press/).
 * Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
 * Photographer, IAPR TC4 Winter School on Biometrics, Shenzhen. *13-17 Jan 2019*.
+
+## Open Source Software
+
+* [FMEngine](https://github.com/eth-easl/fmengine): Utility library for training very large machine learning models.
+* [Open Compute](https://github.com/autoai-org/OpenComputeFramework): Decentralized computing for machine learning as a service.
+* [AID (inactive)](https://github.com/autoai-org/aid): One-stop deployment solution for machine learning models.
 
 ## Misc
 
