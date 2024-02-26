@@ -64,6 +64,8 @@ I served as the teaching assistant at both Shenzhen University and Universität 
 
 If you are interested in the slides of the following talks, please contact me.
 
+* *AIDS Seminar: DeltaZip - Multi-tenant LLMs Serving* at Aalto University, hosted by Prof. Dr. Bo Zhao. *26, Feb, 2024*
+* *Industry Retreat: DeltaZip - Multi-tenant LLMs Serving* at ETH Zurich, hosted by Systems Group. *16, Jan, 2024*.
 * *Techno Hour: Learned Cardinality Estimation in Database Systems* at SAP, hosted by Thomas Zurek. *5, April 2022*.
 * *Tech Talk: AID - Towards Findable, Accessible and Usable AI* at ETH Library, hosted by Koesling Sven. *15, Feb 2022*.
 
