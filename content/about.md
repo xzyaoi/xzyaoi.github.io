@@ -71,7 +71,7 @@ If you are interested in the slides of the following talks, please contact me.
 
 ## Community Service
 
-* Co-organizer, [DMLR Workshop @ ICLR 2024](https://dmlr.ai/). *2024*.
+* Co-organizer & PC Co-chair, [DMLR Workshop @ ICLR 2024](https://dmlr.ai/). *2024*.
 * Reviewer, [DEEM Workshop @ SIGMOD](http://deem-workshop.org/). *2023/2024*.
 * Reviewer, [Journal of Data-centric Machine Learning Research (DMLR)](https://data.mlr.press/).
 * Representative of ETH Zurich at [MLCommons DataPerf](https://dataperf.org).
