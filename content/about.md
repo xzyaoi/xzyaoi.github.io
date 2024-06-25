@@ -6,7 +6,7 @@ title = "About Xiaozhe Yao"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Xiaozhe Yao is a second-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch) advised by [Prof. Dr. Ana Klimović](https://anakli.inf.ethz.ch/). Working on a wide spectrum of machine learning and systems, his research direction is to build systems that support large-scale machine learning and democratize machine learning.
+Xiaozhe Yao is a third-year doctoral student at [Systems Group](https://systems.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zurich](https://ethz.ch) advised by [Prof. Dr. Ana Klimović](https://anakli.inf.ethz.ch/). Working on a wide spectrum of machine learning and systems, his research direction is to build systems that support large-scale machine learning and democratize machine learning.
 
 Prior to ETH Zurich, Xiaozhe Yao gained his Master's degree at the [University of Zurich](https://uzh.ch) in Data Science, advised by Prof. Dr. [Michael Böhlen](https://www.ifi.uzh.ch/en/dbtg/Staff/Boehlen.html) and [Qing Chen](https://qingchen3.github.io/). Before that, he completed his Bachelor’s study at [Shenzhen University](https://szu.edu.cn) in Computer Science, advised by Prof. Dr. [Shiqi Yu](http://yushiqi.cn/). He interned at [Shenzhen Institute of Advanced Technology](https://siat.ac.cn) in 2016 as a data scientist. Between 2021 and 2022, he worked on the [project AID](https://aid.autoai.org) as an Innovator Fellow at the [Library Lab](https://www.librarylab.ethz.ch/), ETH Zurich. The objective of AID is to support the application of machine learning algorithms by imitating a real library. It provides a unified programming interface to access and manage machine learning models, a digital library for searching, filtering and inspecting machine learning models.
 
@@ -60,11 +60,18 @@ I served as the teaching assistant at both Shenzhen University and Universität 
 * Web Programming (Android). Shenzhen University. *2015*.
 * Data Structures and Algorithms. Shenzhen University. *2014*.
 
+I am fortunate to work with students at all levels on their projects and thesis:
+
+* Sparse Mixture of Experts Serving via Delta Compression. Boyko Borisov at ETH Zurich.
+* Analytical Model for LLM Inference. Zhiyuan Huang at ETH Zurich.
+* LongerLora: Scaling Up Low-Rank Adaptors For Longer Context. Xiaoyuan Jin at ETH Zurich.
+
 ## Talks
 
 If you are interested in the slides of the following talks, please contact me.
 
-* *AIDS Seminar: DeltaZip - Multi-tenant LLMs Serving* at Aalto University, hosted by Prof. Dr. Bo Zhao. *26, Feb, 2024*
+* *MLSys Singapore Seminar: DeltaZip - Multi-tenant LLMs Serving*, hosted by Ziji Shi and Qinghao Hu. [YouTube](https://www.youtube.com/watch?v=a6-VyuYMN9s). *April, 2024*.
+* *AIDS Seminar: DeltaZip - Multi-tenant LLMs Serving* at Aalto University, hosted by Prof. Dr. Bo Zhao. *26, Feb, 2024*.
 * *Industry Retreat: DeltaZip - Multi-tenant LLMs Serving* at ETH Zurich, hosted by Systems Group. *16, Jan, 2024*.
 * *Techno Hour: Learned Cardinality Estimation in Database Systems* at SAP, hosted by Thomas Zurek. *5, April 2022*.
 * *Tech Talk: AID - Towards Findable, Accessible and Usable AI* at ETH Library, hosted by Koesling Sven. *15, Feb 2022*.
